@@ -1,0 +1,5 @@
+- {"name":"CN_118","server":"usgpy7.wwap1.com","port":14805,"type":"trojan","country":"CN","password":"PgHI7s","skip-cert-verify":true,"udp":true}
+- {"name":"CN_119","server":"jprw6y.wwap1.com","port":12011,"type":"trojan","country":"CN","password":"PgHI7s","skip-cert-verify":true,"udp":true}
+- {"name":"JP_398","server":"jp9s253.wwap1.com","port":443,"type":"trojan","country":"JP","password":"PgHI7s","skip-cert-verify":true,"udp":true}
+- {"name":"US_1050","server":"usr8230.wwap1.com","port":443,"type":"trojan","country":"US","password":"VCVDwa","skip-cert-verify":true,"udp":true}
+- {"name":"US_1051","server":"usbu202.wwap1.com","port":443,"type":"trojan","country":"US","password":"VCVDwa","skip-cert-verify":true,"udp":true}
